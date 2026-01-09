@@ -1,8 +1,9 @@
 title: "Electromagnetismo I"
 description: "Curso de Electromagnetismo I"
 
-url: ""
-baseurl: ""
+url: "https://mauristofeles.github.io"
+baseurl: "/electro-I.github.io"
+
 
 remote_theme: "mmistakes/minimal-mistakes"
 
