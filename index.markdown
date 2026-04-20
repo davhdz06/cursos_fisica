@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: "Mecánica Vectorial 1"
+#title: "Cursos de la Licenciatura en Física"
 nav_order: 0
 header:
   show_title: false
@@ -15,11 +15,15 @@ header:
   />
   
   <div style="font-size:2.0rem; font-weight:400; margin:0 0 0.8rem 0;">
-  Mecánica Vectorial
+  Taller de Física
+  </div>
+
+  <div style="font-size:1.5rem; font-weight:400; margin:0 0 0.8rem 0;">
+  Cursos de la Licenciatura en Física
   </div>
 
   <p style="margin:0 auto 0.9rem auto; max-width:720px; line-height:1.65;">
-    Material oficial del curso: notas, problemas resueltos y simulaciones.
+    Material didáctico para los diferentes cursos de la Licenciatura en Física
   </p>
 
   <hr style="margin: 1.6rem 0 1.2rem 0;">
@@ -27,13 +31,13 @@ header:
   <h2>Responsables del sitio</h2>
 
   <ul style="list-style:none; padding-left:0; margin:0.8rem 0;">
-   <li><strong>Mirna Villavicencio Torres y Mauricio García Vergara</strong> — Facultad de Ciencias, UNAM</li>
+   <li><strong>Daniel Ávila Hernández, Mauricio García Vergara, Francisco Nettel Rueda </strong> — Facultad de Ciencias, UNAM</li>
   </ul>
 
 
   <p style="margin:0.2rem 0 0 0;">
     Contacto:
-    <a href="mailto:maugv@ciencias.unam.mx">maugv@ciencias.unam.mx</a>
+    <a href="mailto:davhdz06@ciencias.unam.mx">davhdz06@ciencias.unam.mx</a>
   </p>
   
   
