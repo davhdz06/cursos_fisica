@@ -15,7 +15,7 @@ header:
   />
   
   <div style="font-size:2.0rem; font-weight:400; margin:0 0 0.8rem 0;">
-  Electromagnetismo I
+  Mecánica Vectorial
   </div>
 
   <p style="margin:0 auto 0.9rem auto; max-width:720px; line-height:1.65;">
