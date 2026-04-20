@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: "Electromagnetismo I"
+#title: "Mecánica Vectorial"
 nav_order: 0
 header:
   show_title: false
